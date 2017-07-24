@@ -60,7 +60,7 @@
   },
   "dependencies": {
     "es6-promise": "^4.1.0",
-    "immutable": "^4.0.0-rc.2",
+    "immutable": "^3.6",
     "anujs": "^1.0.6",
     "react-hot-loader": "^3.0.0-beta.6",
     "react-immutable-proptypes": "^2.1.0",
