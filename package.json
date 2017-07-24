@@ -8,7 +8,7 @@
   },
   "license": "ISC",
   "scripts": {
-    "start": "better-npm-run dll:dev && npm run dev",
+    "start": "better-npm-run dll && npm run dev",
     "dev": "better-npm-run dev",
     "clean": "rimraf build",
     "build": "better-npm-run build",
